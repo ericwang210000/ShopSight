@@ -1,6 +1,5 @@
 
 <h1 style="margin-bottom: 0.2em;">🛍️ ShopSight</h1>
-<p><em>Built for iPhone</em></p>
 
 **ShopSight** is a privacy-conscious, computer-vision powered shopping assistant that uses live camera views to instantly retrieve detailed insights from **Sonar**, which include **price comparisons**, **reviews**, **brand details**, and **ethical sourcing insights**.
 
@@ -22,7 +21,7 @@ In-store retail often makes it **hard to make informed decisions**:
 | **Allergen Warnings**  | Key allergens, “may contain” risks, and ingredient clarity   |
 | **Ethical Insights**   | Labor practices, sustainability rating, cruelty-free status  |
 | **Brand Transparency** | Ownership, company practices, and house-brand comparisons        |
-| **Optional Advanced Info**| Chemical toxicity (BPA, PFAS), regulatory red flags, price history |
+| **Optional Advanced Info**| Chemical toxicins (BPA, PFAS), regulatory red flags, price history, etc. |
 
 We believe everyone should readily have **access to the truth behind the label** without expensing **time**, **money**, or **data privacy**.
 
@@ -102,7 +101,7 @@ No behavioral tracking or profiling common in online retail platforms
    cd shopsight
    ```
 
-2. Open in Xcode or install dependencies if using React Native.
+2. Open in Xcode
 
 3. Ensure you have:
 
